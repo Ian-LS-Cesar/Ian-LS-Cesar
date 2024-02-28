@@ -1,3 +1,8 @@
 - Me chamo Ian Lucas S. César
 - Tenho interesse pela área de Ciência/Análise de Dados, atualmente estou em busca da minha 1ª oportunidade de trabalho.
 - Curso: Ciências da Computação - Universidade de Fortaleza (3º Semestre)
+- Conhecimentos:
+  - Python - Básico
+  - Java - Básico
+  - SQL - Intermediário
+  - Inglês - Avançado
