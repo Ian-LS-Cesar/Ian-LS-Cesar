@@ -4,5 +4,5 @@
 - Conhecimentos:
   - Python - Básico
   - Java - Básico
-  - SQL - Intermediário
+  - SQL - Básico
   - Inglês - Avançado
