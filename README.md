@@ -1,8 +1,8 @@
 - Me chamo Ian Lucas S. César
 - Tenho interesse pela área de Ciência/Análise de Dados, atualmente estou em busca da minha 1ª oportunidade de estágio.
-- Curso: Ciências da Computação - Universidade de Fortaleza (4º Semestre)
+- Curso: Ciências da Computação - Universidade de Fortaleza (5º Semestre)
 - Conhecimentos:
   - Python - Básico
   - Java - Básico
-  - SQL - Básico
+  - SQL - Intermediário
   - Inglês - Avançado
