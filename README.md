@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 🤔 Buscando por me aprofundar na área de Dados.
+- 🤔 Buscando me aprofundar na área de Dados.
 - 🎓 Estudando Ciências da Computação na Universidade de Fortaleza (UNIFOR).
 - 💼 Atualmente buscando por oportunidade de estágio utilizando linguagens **BackEnd**.
 - 🌱 Aprendendo mais sobre Elixir e PowerBI.
