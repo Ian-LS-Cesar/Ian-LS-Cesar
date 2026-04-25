@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- Estudante com foco na área de dados e desenvolvimento BackEnd.
+- Foco na área de dados e desenvolvimento BackEnd.
 - Graduando Ciências da Computação na Universidade de Fortaleza (UNIFOR).
 - Buscando por oportunidade de estágio utilizando linguagens BackEnd e conhecimentos em BI.
 
