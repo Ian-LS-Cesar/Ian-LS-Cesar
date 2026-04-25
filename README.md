@@ -8,7 +8,11 @@
 
 **Linguagens**
 
-![Linguagens](https://skillicons.dev/icons?i=python,java,elixir,r,mysql,postgres)
+![Linguagens](https://skillicons.dev/icons?i=python,java,elixir,r)
+
+**Bancos de Dados**
+
+![Bancos de Dados](https://skillicons.dev/icons?i=mysql,postgres)
 
 **Frameworks**
 
