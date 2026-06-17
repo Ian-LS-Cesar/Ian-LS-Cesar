@@ -16,7 +16,7 @@
 
 **Frameworks**
 
-![Frameworks](https://skillicons.dev/icons?i=spring,django)
+![Frameworks](https://skillicons.dev/icons?i=spring,django,fastapi)
 
 **DevOps**
 
